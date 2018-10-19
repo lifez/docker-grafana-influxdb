@@ -1,0 +1,4 @@
+version: '3.2'
+services:
+  grafana:
+    image: grafana/grafana:5.3.1
